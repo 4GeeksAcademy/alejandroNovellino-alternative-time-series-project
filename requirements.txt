@@ -13,5 +13,7 @@ seaborn
 shap
 sqlalchemy
 sympy
-tensorflow[and-cuda]
 xgboost
+statsmodels
+plotly
+pmdarima
